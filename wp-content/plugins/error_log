@@ -1,0 +1,6 @@
+[08-Dec-2013 04:32:22] PHP Fatal error:  Call to undefined function  add_action() in /home2/growin44/public_html/wp-content/plugins/hello.php on line 60
+[17-Dec-2013 19:13:05] PHP Fatal error:  Call to undefined function  add_action() in /home2/growin44/public_html/wp-content/plugins/hello.php on line 60
+[12-Jan-2014 10:06:20] PHP Fatal error:  Call to undefined function  add_action() in /home2/growin44/public_html/wp-content/plugins/hello.php on line 60
+[18-Apr-2014 19:47:07 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/growin44/public_html/wp-content/plugins/hello.php on line 60
+[12-May-2014 08:08:06 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/growin44/public_html/wp-content/plugins/hello.php on line 60
+[16-Jul-2014 06:50:34 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/growin44/public_html/wp-content/plugins/hello.php on line 60

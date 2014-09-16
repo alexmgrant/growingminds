@@ -1,0 +1,52 @@
+#menu li a.selected {
+	color:#da8b00;
+}
+#menu li.current_page_item a, #menu a:hover {
+	color:#da8b00;
+}
+#menu .ddsmoothmenu li li a.selected, #menu .ddsmoothmenu li li a:hover {
+	color:#da8b00;
+}
+.pagination li a {
+	background:#fbfbfb url(images/pagination-yellow.png) 10px 0 no-repeat;
+}
+#slides .next {
+	background:url(images/next-yellow.png) no-repeat;
+}
+#slides .prev {
+	background:url(images/prev-yellow.png) no-repeat;
+}
+.feature-blog .feature-blog-item h1 a{
+color:#da8b00;
+}
+.feature-buttons a.btn-1 {
+	background-image:url(images/button-yellow.png);
+}
+.footer{
+background:#cc8900 url(images/footer-bg-yellow.png) repeat-x;
+}
+.footer .footer-inner h3{
+background:url(images/footer-line-yellow.png) bottom repeat-x;
+text-shadow:0 2px 0 #af8100;
+}
+ .footer .footer-inner .searchform {
+	background: url(images/search-bg-yellow.png);
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+#slides .next {
+	background:url(images/next-yellow1.png) no-repeat;
+}
+#slides .prev {
+	background:url(images/prev-yellow1.png) no-repeat;
+}
+}
+@media only screen and (min-width: 300px) and (max-width: 480px) {
+#slides .next {
+	top:37.5%;
+	background:url(images/next-yellow1.png) no-repeat;
+}
+#slides .prev {
+	top:37.5%;
+	background:url(images/prev-yellow1.png) no-repeat;
+}
+}

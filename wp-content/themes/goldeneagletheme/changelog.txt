@@ -1,0 +1,10 @@
+== Changelog ==
+
+= Theme Name: golden_eagle Theme Pro=
+
+= Version: 1.3 =
+**Blog problem has solved.
+
+= Version: 1.0 =
+
+* * golden_eagle Theme is created on 1/01/2012.

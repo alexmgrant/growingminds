@@ -1,0 +1,1 @@
+[20-Aug-2013 13:06:45] PHP Fatal error:  Call to undefined function  get_header() in /home2/growin44/public_html/wp-content/themes/goldeneagletheme/index.php on line 13

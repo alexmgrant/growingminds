@@ -1,0 +1,55 @@
+#menu li a.selected {
+color:#9c2742;
+}
+#menu li.current_page_item a, #menu a:hover {
+color:#9c2742;
+}
+#menu .ddsmoothmenu li li a.selected, #menu .ddsmoothmenu li li a:hover {
+color:#9c2742;
+}
+.pagination li a {
+	background:#fbfbfb url(images/pagination-deeppink.png) 10px 0 no-repeat;
+}
+#slides .next {
+	background:url(images/next-deeppink.png) no-repeat;
+}
+#slides .prev {
+	background:url(images/prev-deeppink.png) no-repeat;
+}
+.feature-blog .feature-blog-item h1 a{
+color:#9c2742;
+}
+.feature-buttons a.btn-1 {
+	background-image:url(images/button-deeppink.png);
+}
+.feature-buttons a.btn-1:hover{
+background-position:0 58px;
+}
+.footer{
+background:#962943 url(images/footer-bg-deeppink.png) repeat-x;
+}
+.footer .footer-inner h3{
+background:url(images/footer-line-deeppink.png) bottom repeat-x;
+text-shadow:0 2px 0 #842b42;
+}
+ .footer .footer-inner .searchform {
+	background: url(images/search-bg-deeppink.png);
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+#slides .next {
+	background:url(images/next-deeppink1.png) no-repeat;
+}
+#slides .prev {
+	background:url(images/prev-deeppink1.png) no-repeat;
+}
+}
+@media only screen and (min-width: 300px) and (max-width: 480px) {
+#slides .next {
+	top:37.5%;
+	background:url(images/next-deeppink1.png) no-repeat;
+}
+#slides .prev {
+	top:37.5%;
+	background:url(images/prev-deeppink1.png) no-repeat;
+}
+}
