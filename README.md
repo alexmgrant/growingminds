@@ -1,4 +1,7 @@
-growingminds
+Growing Minds
 ============
 
-Backup of Growing Minds website.
+###Welcome to Growing Minds.
+This is the growing minds website built with Wordpress.  
+
+
